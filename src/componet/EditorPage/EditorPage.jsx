@@ -28,7 +28,7 @@ export const Editorpage = () => {
           <EditPageDrawer />
         </Grid>
 
-        <Grid item xs={4} md={4} sx={{ border: "1px solid" }}>
+        <Grid item xs={4} md={4} >
           <h1>Project Setting</h1>
           <TextFieldWrapper
             id="outlined-select-currency"
